@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://guilherme-monteiro.github.io/test-app",
+  "homepage": "http://guilherme-monteirro.github.io",
   "dependencies": {
     "firebase": "^5.9.4",
     "gh-pages": "^2.0.1",
